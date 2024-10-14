@@ -53,7 +53,7 @@ There are two options. Building mod locally and sharing:
 1. Open _extensions view_ (opera:extensions)
 2. Enable _Developer mode_ in top right corner
 3. Click _Pack extension_ and point to directory with manifest.json
-
+ 
 This will produce .CRX file that you can share with friends. Drag and drop it into Opera GX to install that mod.
 
 Or uploading zipped mod to [GX.store](https://operagx.gg/mods2) via [GX.create](https://create.gx.games/mods).
